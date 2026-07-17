@@ -70,3 +70,35 @@ Esses resultados evidenciam um padrão de concentração dos gastos e demonstram
 **Claudio Amaro da Silva**
 
 Analista de Processos | Supply Chain | Data Analysis | Power BI | Melhoria Contínua
+
+---
+
+# 📊 Visualizações
+
+## Total Reembolsado por Categoria
+
+![Categorias](categorias.png)
+
+---
+
+## Top 10 Senadores por Valor Reembolsado
+
+![Senadores](senadores.png)
+
+---
+
+## Top 10 Fornecedores por Valor Reembolsado
+
+![Fornecedores](fornecedores.png)
+
+---
+
+## Evolução Mensal dos Reembolsos
+
+![Mensal](mensal.png)
+
+---
+
+## Heatmap dos Gastos por Categoria
+
+![Heatmap](heatmap.png)
